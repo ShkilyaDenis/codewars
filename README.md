@@ -4,4 +4,4 @@
 
 Это [**Мой профиль**](https://www.codewars.com/users/ShkilyaDenis) на codewars. :boom:
 
-А это мой [**Twitter**](https://x.com/ShkilyaDenis) буду рад подписке! :innocent:
+А это мой [**Twitter**](https://x.com/ShkilyaDenis), буду рад подписке! :innocent:
