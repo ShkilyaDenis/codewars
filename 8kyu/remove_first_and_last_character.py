@@ -8,5 +8,5 @@ def remove_char(s):
 
 
 # Тесты
-print(remove_char("hello"))  # "ell"
-print(remove_char('country'))  # "ountr'"
+print(remove_char("hello"))  # ell
+print(remove_char('country'))  # ountr
