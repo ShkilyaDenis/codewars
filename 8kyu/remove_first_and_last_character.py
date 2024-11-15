@@ -6,5 +6,7 @@ def remove_char(s):
     # Убираем первый и последний символ строки
     return s[1:-1]
 
+
+# Тесты
 print(remove_char("hello"))  # "ell"
 print(remove_char('country'))  # "ountr'"
