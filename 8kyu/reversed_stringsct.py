@@ -10,5 +10,5 @@ def reverse_string(s):
 
 
 # Тесты
-print(reverse_string('world'))  # Вывод: 'dlrow'
-print(reverse_string('Hello'))   # Вывод: 'olleH'
+print(reverse_string('world'))  # dlrow
+print(reverse_string('Hello'))   # olleH
