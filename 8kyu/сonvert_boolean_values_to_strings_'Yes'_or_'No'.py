@@ -9,3 +9,8 @@ def bool_to_word(boolean):
     else:
         # Если False, возвращаем "No"
         return "No"
+
+
+# Тесты
+print(bool_to_word(True))  # Yes
+print(bool_to_word(False))  # No
