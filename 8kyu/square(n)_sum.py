@@ -13,6 +13,7 @@ def square_sum(numbers):
     return total
 
 
+# Тесты
 numbers = [1, 2, 2]
 result = square_sum(numbers)
 print(result)  # 9
