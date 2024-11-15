@@ -16,8 +16,8 @@ def positive_sum(arr):
 
 
 # Тесты
-print(positive_sum([1,2,3,4,5]))  # Вывод: 15
-print(positive_sum([1,-2,3,4,5]))  # Вывод: 13
-print(positive_sum([-1,2,3,4,-5]))     # Вывод: 9
-print((positive_sum([])))  # Вывод: 0
-print(positive_sum([-1,-2,-3,-4,-5]))  # Вывод: 0
+print(positive_sum([1,2,3,4,5]))  # 15
+print(positive_sum([1,-2,3,4,5]))  # 13
+print(positive_sum([-1,2,3,4,-5]))     # 9
+print((positive_sum([])))  # 0
+print(positive_sum([-1,-2,-3,-4,-5]))  # 0
