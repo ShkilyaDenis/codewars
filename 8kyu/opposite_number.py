@@ -1,5 +1,4 @@
 #Very simple, given a number (integer / decimal / both depending on the language), find its opposite (additive inverse).
-
 #Examples:
 #1: -1
 #14: -14
@@ -20,6 +19,7 @@ def opposite(number):
         return number
 
 
+# Тесты
 print(opposite(-34))   # 34
 print(opposite(14))    # -14
 print(opposite(0))     # 0
