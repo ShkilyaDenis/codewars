@@ -19,5 +19,5 @@ def summation(num):
 
 
 # Тесты
-print(summation(2))  # 3 (1 + 2)
-print(summation(8))  # 36 (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8)
+print(summation(2))  # 3 
+print(summation(8))  # 36
