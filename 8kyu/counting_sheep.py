@@ -24,8 +24,8 @@ def count_sheeps(sheep):
 
 
 # Тесты
-sheep_list = [True, True, True, False, True, True, True, True,
+sheep = [True, True, True, False, True, True, True, True,
               True, False, True, False, True, False, False, True,
               True, True, True, True, False, False, True, True]
 
-print(count_sheep(sheep_list))  # 17
+print(count_sheeps(sheep))  # 17
