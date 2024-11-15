@@ -12,7 +12,7 @@ def number_to_string(num):
     # Возвращаем число преобразованное в строку
 
 # Тесты
-print(number_to_string(123))   # Ожидаемый вывод: '123'
-print(number_to_string(999))   # Ожидаемый вывод: '999'
-print(number_to_string(-100))  # Ожидаемый вывод: '-100'
-print(number_to_string(0))     # Ожидаемый вывод: '0'
+print(number_to_string(123))   # 123
+print(number_to_string(999))   # 999
+print(number_to_string(-100))  # -100
+print(number_to_string(0))     # 0
