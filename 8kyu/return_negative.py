@@ -17,6 +17,6 @@ def make_negative( number ):
 
 
 # Тесты
-print(make_negative(1))   # Вывод: -1
-print(make_negative(-5))  # Вывод: -5
-print(make_negative(0))   # Вывод: 0
+print(make_negative(1))   # -1
+print(make_negative(-5))  # -5
+print(make_negative(0))   # 0
