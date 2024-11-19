@@ -1,6 +1,7 @@
-# Write a function to convert a name into initials. This kata strictly takes two words with one space in between them.
-# The output should be two capital letters with a dot separating them.
-# It should look like this:
+# Напиши функцию, которая преобразует имя в инициалы. Задача строго предполагает, что входная строка содержит
+# два слова, разделенных одним пробелом.
+# Вывод должен быть в виде двух заглавных букв с точкой между ними.
+# Пример:
 # Sam Harris => S.H
 # patrick feeney => P.F
 
@@ -15,3 +16,20 @@ def abbrev_name(name):
 # Тесты
 print(abbrev_name("Sam Harris"))  # Вывод: S.H
 print(abbrev_name("patrick feeney"))  # Вывод: P.F
+
+
+# Метод split() используется для разделения строки на части (подстроки) по заданному
+# разделителю и возвращает список этих частей.
+
+# Метод upper() преобразует все символы в строке в заглавные буквы.
+
+
+
+
+
+
+
+
+
+
+
