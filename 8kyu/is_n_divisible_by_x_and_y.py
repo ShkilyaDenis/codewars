@@ -13,6 +13,13 @@ def is_divisible(n,x,y):
 # n % y == 0 — проверяет, делится ли n на y без остатка.
 # Логический оператор and гарантирует, что оба условия должны быть выполнены для возврата True.
 
+def is_divisible(n,x,y):
+    #your code here
+    if n % x == 0 and n % y == 0:
+        return True
+    else:
+        return False
+
 
 #Тесты
 print(is_divisible(3,2,2)) # False
