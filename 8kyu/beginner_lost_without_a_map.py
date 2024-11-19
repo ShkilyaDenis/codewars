@@ -3,6 +3,14 @@
 # [1, 2, 3] --> [2, 4, 6]
 
 
+# 1 Вариант решения:
+def maps(a):
+    num = []
+    for x in a:
+        num.append(x * 2)
+    return num
+
+# 2 Вариант решения:
 def maps(a):
     return [x * 2 for x in a]
 
