@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a63fa69-7d0a-4c6d-b69a-95e442a8a5bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/how_good_are_you_really.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +41,7 @@
     "Python.convert_a_boolean_to_a_string.executor": "Run",
     "Python.convert_a_string_to_a_number.executor": "Run",
     "Python.convert_number_to_reversed_array_of_digits.executor": "Run",
+    "Python.how_good_are_you_really.executor": "Run",
     "Python.is_n_divisible_by_x_and_y.executor": "Run",
     "Python.keep_hydrated.executor": "Run",
     "Python.opposites_attract.executor": "Run",
