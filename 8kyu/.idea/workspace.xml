@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a63fa69-7d0a-4c6d-b69a-95e442a8a5bb" name="Changes" comment="" />
+    <list default="true" id="7a63fa69-7d0a-4c6d-b69a-95e442a8a5bb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/sum_arrays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/are_you_playing_banjo.py" beforeDir="false" afterPath="$PROJECT_DIR$/are_you_playing_banjo.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2owD35ApL0p6jOcg64kyr0HCLJF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,13 +34,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.a_needle_in_the_haystack.executor": "Run",
     "Python.abbreviate_a_two_word_name.executor": "Run",
+    "Python.are_you_playing_banjo.executor": "Run",
     "Python.basic_mathematical_operations.executor": "Run",
+    "Python.beginner_lost_without_a_map.executor": "Run",
     "Python.century_from_year.executor": "Run",
+    "Python.convert_a_boolean_to_a_string.executor": "Run",
     "Python.convert_a_string_to_a_number.executor": "Run",
     "Python.convert_number_to_reversed_array_of_digits.executor": "Run",
+    "Python.is_n_divisible_by_x_and_y.executor": "Run",
     "Python.keep_hydrated.executor": "Run",
+    "Python.opposites_attract.executor": "Run",
     "Python.returning_strings.executor": "Run",
+    "Python.sum_arrays.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
